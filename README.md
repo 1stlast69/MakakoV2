@@ -19,7 +19,7 @@ GitAction skipp problem(https://github.com/zhtok/MSO_E5_Dev_AutoRenew_Modified/i
 
 Major changes are made:
 - Remove ```main.py``` 
-- New ```test.py```
+- Rename ```test.py``` to ```1.py```
 - New ```autoTestApi.yml```
 - Import ```random``` to generate the number of tests instead of fixed 10 times for each action.
 - From ```ubuntu-latest``` to ```ubuntu-22.04```
