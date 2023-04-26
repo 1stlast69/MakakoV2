@@ -2,6 +2,12 @@
 This is a python program based on Git Actions modified to automatically generate development actions via Microsoft Graph API like a real developer in order to active Microsoft Office 365 E5 Developer Trail subscription auto renew.
 
 Reupload from https://github.com/zhtok/MSO_E5_Dev_AutoRenew_Modified
+
+#Status
+Commit [![Commit](https://github.com/1stlast69/MakakoV2/actions/workflows/Commit.yml/badge.svg)](https://github.com/1stlast69/MakakoV2/actions/workflows/Commit.yml)
+
+AutoAPI [![Auto Test MS Graph API](https://github.com/1stlast69/MakakoV2/actions/workflows/autoTestApi.yml/badge.svg)](https://github.com/1stlast69/MakakoV2/actions/workflows/autoTestApi.yml)
+
 # Notice
 This repo may lead to unknown issues, problems, information leaks, etc. 
 
