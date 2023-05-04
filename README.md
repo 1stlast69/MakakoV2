@@ -5,7 +5,6 @@ Reupload from https://github.com/zhtok/MSO_E5_Dev_AutoRenew_Modified
 
 
 # Status
-[![Commit](https://github.com/1stlast69/MakakoV2/actions/workflows/Commit.yml/badge.svg?branch=main)](https://github.com/1stlast69/MakakoV2/actions/workflows/Commit.yml)
 
 [![Auto Test MS Graph API](https://github.com/1stlast69/MakakoV2/actions/workflows/autoTestApi.yml/badge.svg)](https://github.com/1stlast69/MakakoV2/actions/workflows/autoTestApi.yml)
 
