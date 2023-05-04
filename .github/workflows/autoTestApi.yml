@@ -52,5 +52,6 @@ jobs:
         git commit -m "update new refresh token with user0" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
+      
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
